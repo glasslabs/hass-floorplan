@@ -1,0 +1,21 @@
+<svg width="119px" height="119px" viewBox="0 0 119 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="floorplan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="windows" transform="translate(36.300000, 11.200000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF">
+            <polygon id="Path" points="5.98692669e-14 2.84217094e-14 45.53 2.84217094e-14 45.53 5.29733807 5.98692669e-14 5.29733807"></polygon>
+        </g>
+        <g id="walls" transform="translate(10.570000, 12.030000)" fill="#FFFFFF" fill-opacity="0.6" stroke="#FFFFFF">
+            <polygon id="Path" points="2.15931314 38.61 2.15931314 92.77 90.5801872 92.769 90.5811869 80.68 81.9339375 80.68 81.9339375 76.36 88.4218738 76.36 88.4218738 63.39 81.9339375 63.39 81.9339375 59.06 90.5811869 59.06 90.5811869 38.61 92.7405 38.61 92.7405 92.77 92.7405 94.94 0 94.94 0 38.61"></polygon>
+            <polygon id="Path" points="20.0436243 -8.33777491e-16 25.0920184 8.50453041e-14 25.0910188 4.329 20.0436243 4.33 2.15931314 4.33 2.15931314 15.02 0 15.02 0 2.17 15.7150012 2.17 15.7150012 1.15061294e-13"></polygon>
+            <polygon id="Path" points="92.7426258 8.52651283e-14 92.7405 15.02 90.5811869 15.02 90.5801872 4.329 72.2470188 4.33 72.2470188 8.52651283e-14"></polygon>
+        </g>
+        <g id="doors" transform="translate(10.700000, 28.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF">
+            <rect id="binary_sensor.verandah_door" class="door" x="90.4" y="0" width="2" height="21.7"></rect>
+            <rect id="binary_sensor.back_door" class="door" x="0" y="0" width="2" height="22"></rect>
+        </g>
+        <g id="light" transform="translate(51.000000, 20.500000)" fill="#464646" fill-rule="nonzero" stroke="#464646" stroke-opacity="0.5" stroke-width="5">
+            <circle id="light.lounge_lamp_1" class="light" cx="36" cy="76" r="5"></circle>
+            <circle id="light.lounge_lamp_2" class="light" cx="36" cy="5" r="5"></circle>
+            <circle id="light.lounge_main" class="light" cx="5" cy="41" r="5"></circle>
+        </g>
+    </g>
+</svg>
