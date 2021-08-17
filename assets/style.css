@@ -1,0 +1,19 @@
+.hass-floorplan .light.on {
+    fill: #ffd400;
+    stroke: #ffd400;
+}
+
+.hass-floorplan .light.unavailable {
+    fill: #c00000;
+    stroke: #c00000;
+}
+
+.hass-floorplan .door.on {
+    fill: #42a2dd;
+    stroke: #42a2dd;
+}
+
+.hass-floorplan .door.unavailable {
+    fill: #c00000;
+    stroke: #c00000;
+}
