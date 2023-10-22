@@ -11,11 +11,11 @@ to under modules in your configuration.
 
 ```yaml
 modules:
- - name: floorplan
-    path: github.com/glasslabs/hass-floorplan
+  - name: floorplan
+    url:  https://github.com/glasslabs/hass-floorplan/releases/download/v1.0.0/hass-floorplan.wasm
     position: top:right
     config:
-      url: http://my-hass-instance:8123/
+      url: http://my-hass-instance:8123
       token: <your-hass-token>
       floorplan: {{ .ConfigPath }}/assets/floorplan.svg
       mapping:
