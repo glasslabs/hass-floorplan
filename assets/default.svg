@@ -1,4 +1,25 @@
 <svg width="119px" height="119px" viewBox="0 0 119 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        .light.on {
+            fill: #ffd400;
+            stroke: #ffd400;
+        }
+
+        .light.unavailable {
+            fill: #c00000;
+            stroke: #c00000;
+        }
+
+        .door.on {
+            fill: #42a2dd;
+            stroke: #42a2dd;
+        }
+
+        .door.unavailable {
+            fill: #c00000;
+            stroke: #c00000;
+        }
+    </style>
     <g id="floorplan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="windows" transform="translate(36.300000, 11.200000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF">
             <polygon id="Path" points="5.98692669e-14 2.84217094e-14 45.53 2.84217094e-14 45.53 5.29733807 5.98692669e-14 5.29733807"></polygon>
